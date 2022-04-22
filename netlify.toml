@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://docs.oasis-open.org/dita/dita/v1.3/errata02/os/dita-v1.3-errata02-os.html"
+  to = "https://docs.oasis-open.org/dita/dita/v1.3/dita-v1.3-part3-all-inclusive.html"
   status = 307
   force = true
